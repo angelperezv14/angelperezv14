@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there!
+
+I'm a PhD candidate in Operations Management at the University of Cincinnati. 
+My research is centered on the integration of emerging technologies into logistics systems to enhance the efficiency and sustainability of operations. 
+My current work focuses on optimizing autonomous trucking deployment within existing transportation networks.
 
 <!--
 **angelperezv14/angelperezv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
